@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ElectricBillManagement</string>
+    <string name="welcome_message">Chào mừng đến với ứng dụng Quản Lý Hóa Đơn Tiền Điện!</string>
+    <string name="enter_increase_amount">Nhập số tiền tăng đơn giá điện</string>
+    <string name="increase_button_text">Đơn Giá Tăng Điện</string>
+    <string name="customer_added_success">Khách hàng đã được thêm thành công!</string>
+    <string name="customer_added_failure">Thêm khách hàng thất bại!</string>
+    <string name="no_customers_found">Không có khách hàng!</string>
+    <string name="update_success">Cập nhật khách hàng thành công!</string>
+    <string name="update_failure">Cập nhật khách hàng thất bại!</string>
+    <string name="customer_deleted_success">Khách hàng đã được xóa thành công!</string>
+    <string name="customer_deleted_failure">Xóa khách hàng thất bại!</string>
+
+    <string-array name="user_type_array">
+        <item>Cá Nhân</item>
+        <item>Kinh Doanh</item>
+    </string-array>
+</resources>
